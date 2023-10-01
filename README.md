@@ -1,7 +1,7 @@
- `<div align="center">`
-   `<a href="https://github.com/nnko0o/statful-flet">`
-   `<img src="https://github.com/nnko0o/stateful-flet/images/Icon-512.png" width="180" height="180" alt="Stateful Flet Library">`
-  `</a>`
+ <div align="center">
+   <a href="https://github.com/nnko0o/statful-flet">
+   <img src="https://github.com/nnko0o/stateful-flet/blob/master/images/Icon-512.png" width="180" height="180" alt="Stateful Flet Library">
+  </a>
 
 **State Management for Flet**
 
@@ -65,9 +65,9 @@ if __name__=='__main__':
 
 # Philosophy
 
-flet missing a state management from make it more smoothly `<br />`
-so i get React State Management and make it more pythonic and work perfectly with flet `<br />`
-ِAnd make it fast as possible with minimal use of hardware resources `<br />`
+flet missing a state management from make it more smoothly <br />
+so i get React State Management and make it more pythonic and work perfectly with flet <br />
+ِAnd make it fast as possible with minimal use of hardware resources <br />
 By remove the multiple loops in the threads in `Effect` and make it work by add the effect function in the Stateful Objects
 
 # TODO:
